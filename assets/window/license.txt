@@ -1,11 +1,11 @@
 Model Information:
-* title:	50s Window Lowpoly
-* source:	https://sketchfab.com/3d-models/50s-window-lowpoly-3859a8d1e07049d3b8d3649c8fa6abb1
-* author:	sskjellestad (https://sketchfab.com/sskjellestad)
+* title:	Wooden double hung window
+* source:	https://sketchfab.com/3d-models/wooden-double-hung-window-572f866f92664f6cb9ba8ebffa4ca803
+* author:	Marsy (https://sketchfab.com/Olexandr.Dotsenko)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "50s Window Lowpoly" (https://sketchfab.com/3d-models/50s-window-lowpoly-3859a8d1e07049d3b8d3649c8fa6abb1) by sskjellestad (https://sketchfab.com/sskjellestad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Wooden double hung window" (https://sketchfab.com/3d-models/wooden-double-hung-window-572f866f92664f6cb9ba8ebffa4ca803) by Marsy (https://sketchfab.com/Olexandr.Dotsenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
