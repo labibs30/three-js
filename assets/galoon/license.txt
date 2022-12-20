@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Dispenser
+* source:	https://sketchfab.com/3d-models/lowpoly-dispenser-d345524901c7482393c2c93560f2ed90
+* author:	frankythebeast (https://sketchfab.com/frankythebeast)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Dispenser" (https://sketchfab.com/3d-models/lowpoly-dispenser-d345524901c7482393c2c93560f2ed90) by frankythebeast (https://sketchfab.com/frankythebeast) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

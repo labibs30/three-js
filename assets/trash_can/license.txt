@@ -1,0 +1,11 @@
+Model Information:
+* title:	trash can
+* source:	https://sketchfab.com/3d-models/trash-can-2e9e6e123b3a40ffa0bc4336f237c94d
+* author:	YAN YIN (https://sketchfab.com/yinyan1298)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "trash can" (https://sketchfab.com/3d-models/trash-can-2e9e6e123b3a40ffa0bc4336f237c94d) by YAN YIN (https://sketchfab.com/yinyan1298) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

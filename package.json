@@ -1,11 +1,12 @@
 {
   "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.3",
     "three": "^0.147.0"
   },
   "name": "grafkom",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

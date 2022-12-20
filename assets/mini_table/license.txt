@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small_Table
+* source:	https://sketchfab.com/3d-models/small-table-6f0941daa44c4d6b93ec3db56f11d4c6
+* author:	Shining Salt (https://sketchfab.com/shiningsalt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small_Table" (https://sketchfab.com/3d-models/small-table-6f0941daa44c4d6b93ec3db56f11d4c6) by Shining Salt (https://sketchfab.com/shiningsalt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

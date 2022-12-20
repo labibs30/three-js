@@ -1,0 +1,11 @@
+Model Information:
+* title:	Double Bed
+* source:	https://sketchfab.com/3d-models/double-bed-c505ffffc1524865ba63af837346f1f7
+* author:	Francesco Coldesina (https://sketchfab.com/topfrank2013)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Double Bed" (https://sketchfab.com/3d-models/double-bed-c505ffffc1524865ba63af837346f1f7) by Francesco Coldesina (https://sketchfab.com/topfrank2013) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
