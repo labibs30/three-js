@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stationary
+* source:	https://sketchfab.com/3d-models/stationary-7420fb13a16041f1a54255171d1bb138
+* author:	niallplatt (https://sketchfab.com/niallplatt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stationary" (https://sketchfab.com/3d-models/stationary-7420fb13a16041f1a54255171d1bb138) by niallplatt (https://sketchfab.com/niallplatt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
